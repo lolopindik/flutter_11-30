@@ -128,7 +128,7 @@ class MyHomePage extends StatelessWidget {
             )
           ]
         ),
-        )
+        ),
     );
   }
 }
