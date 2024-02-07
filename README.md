@@ -1,16 +1,4 @@
-# first_task
+<h1>first task in framework - Flutter</h1>
+<h3>#Completed the task of creating home_page</h3>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/lolopindik/flutter_13-30/assets/136455904/07fb2146-42a9-4b51-a7c0-5d3d3da07cba)
